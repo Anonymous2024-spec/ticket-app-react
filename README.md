@@ -59,7 +59,7 @@ This is the **React implementation** of a multi-framework ticket management syst
 - **Login Page** - Secure user login with validation
 - **Signup Page** - New user registration
 - **Form Validation** - Real-time error checking
-- **Toast Notifications** - Success/error feedback
+- **Toast Notifications** - Success and error feedback
 - **Session Management** - LocalStorage-based tokens
 - **Protected Routes** - Automatic redirection for unauthorized access
 
