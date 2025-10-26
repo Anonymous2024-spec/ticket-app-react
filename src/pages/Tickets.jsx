@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { useTickets } from "../hooks/useTickets";
 import TicketForm from "../components/tickets/TicketForm";
 import TicketCard from "../components/tickets/TicketCard";
-import Toast from "../components/UI/Toast";
+import Toast from "../components/Toast";
 import styles from "./Tickets.module.css";
 
 const Tickets = () => {
